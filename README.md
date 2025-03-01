@@ -1,5 +1,24 @@
-# 💫 About Me:
-👋 Hello! I'm Atharva Deokar, a passionate second-year computer engineering student with a keen interest in technology and coding.<br><br>💻 I am certified in the "Python Masterclass: Learn By Building 15 Projects & ChatGPT" and "The Ultimate 2024 Fullstack Web Development Bootcamp" from Udemy. My expertise spans Python, full-stack web development, and API integration.<br><br>🌐 Currently, I am focusing on mastering both frontend and backend technologies to create comprehensive web applications. I have hands-on experience with HTML, CSS, JavaScript, React.js, Python, and Django.<br><br>📚 I enjoy solving data structures and algorithms problems, enhancing my problem-solving skills and deepening my understanding of core concepts.<br><br>🚀 I am enthusiastic about contributing to the tech industry by developing innovative solutions and continuously learning new skills.<br><br>Feel free to explore my repositories to see some of the projects I've been working on!
+# 👋 Hello! I'm Atharva Deokar  
+
+I am a dedicated computer engineering student passionate about full-stack development, AI/ML, and building innovative solutions. My expertise lies in web development, API integration, and AI-powered applications.  
+
+## 🔹 What I Do  
+- Develop **scalable web applications** using React.js, Python, and Django.  
+- Build **AI-driven solutions**, including NLP-based models and real-time computer vision applications.  
+- Solve **data structures and algorithms** problems to enhance problem-solving skills.  
+
+## 🛠 Tech Stack  
+**Frontend:** HTML, CSS, JavaScript, React.js  
+**Backend:** Python, Django, Flask  
+**AI/ML:** TensorFlow, OpenCV, NLP (BERT, LangChain)  
+**Databases:** MySQL, Firebase  
+**Other Tools:** Git, Docker, REST APIs  
+
+## 🚀 Featured Projects  
+- **[Signifique](#)** – AI-powered sign language learning and communication app  
+- **[VibeBoost](#)** – AI-based music mood enhancer using facial and text sentiment analysis  
+- **[Fraud Detection AI](#)** – AI model to analyze financial tips and detect misinformation  
+
 
 
 ## 🌐 Socials:
